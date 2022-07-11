@@ -87,6 +87,7 @@ body {
 }
 
 .page {
+  display: none;
   background: #fff;
   border-radius: 0.5rem;
   box-shadow: 0 4px 8px rgb(151 127 200 / 9%);
