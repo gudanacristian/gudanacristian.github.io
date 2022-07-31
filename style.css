@@ -49,6 +49,11 @@ p {
   background: #fff;
 }
 
+#top-menu-bar a.active {
+  color: #334455;
+  background: #ff0;
+}
+
 /* de cautat alte proprietati css */
 
 html {
